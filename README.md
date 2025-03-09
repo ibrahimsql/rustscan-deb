@@ -1,0 +1,2 @@
+# rustscan-deb
+ RustScan 2.4.1 .deb Package A Debian package for RustScan 2.4.1 "Guaranteed Speed 🦔" - the modern port scanner written in Rust. Description This repository contains the .deb package for RustScan 2.4.1, allowing easy installation on Debian-based systems (Ubuntu, Kali Linux, etc.). RustScan is a fast port scanner that can be used standalone or with Nmap. I've packaged the original tool (created by RustScan team) into a .deb format for easier distribution and installation.
