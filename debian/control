@@ -1,7 +1,7 @@
 Source: rustscan
 Section: utils
 Priority: optional
-Maintainer: Your Name <ibrahimsql@proton.me>
+Maintainer:ibrahimsql@proton.me
 Build-Depends: debhelper (>= 10), cargo, rustc
 Standards-Version: 4.5.0
 Homepage: https://github.com/RustScan/RustScan
